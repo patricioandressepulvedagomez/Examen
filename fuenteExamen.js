@@ -7,5 +7,5 @@
         {"alumno":"Aurora","nota":4,"ranking":162},
         {"alumno":"Jesús","nota":7,"ranking":55},
         {"alumno":"María","nota":5,"ranking":100},
-        {"alumno":"Mario","nota":1,"ranking":500},
+        {"alumno":"Mario","nota":1,"ranking":500}
       ]
